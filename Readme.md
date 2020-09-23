@@ -17,3 +17,5 @@ Usage
 
 Simply clone this repository to your `steamapps/common/RimWorld/Mods` folder.
 
+
+This Mod was original created from apkd (https://github.com/apkd/MeerkatMod). It's sad he/she doesn't updated it anymore, so i decided to do that. :)
