@@ -1,0 +1,4 @@
+D:\Steam\steamapps\common\RimWorld\Mods\MeerkatMod-master\Assemblies\MeerkatMod.dll
+D:\Steam\steamapps\common\RimWorld\Mods\MeerkatMod-master\Source\obj\RimWorld\MeerkatMod.csprojAssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\MeerkatMod-master\Source\obj\RimWorld\MeerkatMod.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\MeerkatMod-master\Source\obj\RimWorld\MeerkatMod.dll
